@@ -1,2 +1,2 @@
 # AMCL
-Post-Localisation (AMCL) and Path Planning (move_base) for Group Project. Plan to change a few things in the future.
+Post-Localisation (AMCL) and Path Planning (move_base && DWA) for Group Project. Plan to change/update a few things still.
