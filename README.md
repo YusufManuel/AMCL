@@ -1,2 +1,2 @@
 # AMCL
-Post-Localisation (AMCL) and Path Planning (DWA) for Group Project.
+Post-Localisation (AMCL) and Path Planning for Group Project.
